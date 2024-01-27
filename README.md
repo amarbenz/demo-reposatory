@@ -1,2 +1,2 @@
 # demo-reposatory
-just a demo 
+some description
